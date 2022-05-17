@@ -10,10 +10,15 @@ https://github.com/GoogleChrome/chrome-extensions-samples
 
 https://developer.chrome.com/docs/apps/migration/
 
-https://developers.google.com/codelabs/project-fugu#0
+https://developers.google.com/codelabs/project-fugu
+
+
+https://www.outsystems.com/
+
 
 https://github.com/amandabaker/pwa
 
+https://github.com/sshyran/workbox
 
 https://fastlane.tools/
 
